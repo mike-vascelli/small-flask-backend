@@ -42,4 +42,3 @@ Please focus on proper project structure, proper REST API, proper error handling
         }
       ]
 
-"""
